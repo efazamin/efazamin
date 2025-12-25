@@ -18,7 +18,6 @@
 
 - ⚡ Fun fact **I enjoy solving real-world problems using data and AI**
 
-- 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1Pd3Kockei/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/___efaaazzz___) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/efaz-mashrur-amin) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@verve.light.25?si=Jf1jIIsC8puwyekp) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:efazamin25@gmail.com) 
 
