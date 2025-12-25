@@ -2,7 +2,7 @@
 
 
 
->Hi 👋, I'm Efaz Mashrur Amin</h6>
+>Hi 👋, I'm Efaz Mashrur Amin. </h1>
 I'm a CSE undergraduate student at AIUB, majoring in Machine Learning and Data Science.
 I enjoy working on real-world problems using AI, data analysis, and software development.
 
