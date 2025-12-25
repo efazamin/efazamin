@@ -3,6 +3,8 @@
 
 
 >Hi 👋, I'm Efaz Mashrur Amin</h6>
+I'm a CSE undergraduate student at AIUB, majoring in Machine Learning and Data Science.
+I enjoy working on real-world problems using AI, data analysis, and software development.
 
 - 🔭 I’m currently working on **Machine Learning and AI-based projects**
 
