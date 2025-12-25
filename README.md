@@ -1,10 +1,4 @@
-### Hi there 👋, I'm Efaz Mashrur Amin
-#### I'm a CSE undergraduate student at AIUB, majoring in Machine Learning and Data Science. I enjoy working on real-world problems using AI, data analysis, and software development.
-![I'm a CSE undergraduate student at AIUB, majoring in Machine Learning and Data Science. I enjoy working on real-world problems using AI, data analysis, and software development.]
 
-CSE Student @ AIUB | Machine Learning & Data Science
-Python | Data Analysis | AI-Based Projects | .NET
-Aspiring Machine Learning Engineer
 
 
 
