@@ -38,7 +38,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=efazamin&show_icons=true&locale=en" alt="efazamin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=efazamin&" alt="efazamin" /></p>
-/ C#/ JAVA/ .NET/ REACT/ JS/ HTML/ CSS/ PHP
+C#/ JAVA/ .NET/ REACT/ JS/ HTML/ CSS/ PHP
 
 - 🔭 I’m currently working on Machine Learning and AI-based projects 
 - 🌱 I’m currently learning Advanced Machine Learning concepts, Data Analysis techniques, and .NET backend development 
